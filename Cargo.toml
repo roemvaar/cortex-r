@@ -1,0 +1,14 @@
+[package]
+name = "cortex-r"
+version = "0.1.0"
+authors = ["Roberto Valenzuela <valenzuelarober@gmail.com"]
+description = "Low level access to Cortex-R processors"
+homepage = "https://github.com/roemvaar/cortex-r"
+repository = "https://github.com/roemvaar/cortex-r"
+readme = "README.md"
+keywords = ["arm", "aarch64", "cortex-r", "register"]
+categories = ["embedded", "hardware-support", "no-std"]
+license = "MIT/Apache-2.0"
+edition = "2018"
+
+[dependencies]
